@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+wrx
+chmod 777
