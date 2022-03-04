@@ -1,2 +1,3 @@
 #!/bin/bash
-ls --group-directories-first -mpa
+ls --group-directories-first -pma
+
